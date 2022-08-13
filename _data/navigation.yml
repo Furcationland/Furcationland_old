@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - title: Register
   url: /register.html
 
@@ -30,11 +31,23 @@
 
 
 - title: About
+=======
+- title: Registration
+  url: /registration
+- title: Blog
+  url: /blog
+- title: Calendar
+  url: /calendar.html
+- title: Charity
+  url: /charity.html
+- title: Support
+  url: /support.html
+>>>>>>> ce2122cb1f2f3bc512e3e63fdb0feb930366e196
   sublinks:
     - title: FAQ
       url: /faq.html
     - title: Documentation
       url: /documentation.html
     - title: separator
-    - title: Customer Support
-      url: /customer-support.html
+    - title: Contact
+      url: /contact.html
