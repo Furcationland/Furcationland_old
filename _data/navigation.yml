@@ -1,3 +1,37 @@
+<<<<<<< HEAD
+- title: Register
+  url: /register.html
+
+- title: Events
+  sublinks:
+    - title: Event Schedule
+      url: /event-schedule.html
+    - title: Video Gaming
+      url: /videogames.html
+
+- title: Dealers & Artists
+  sublinks:
+    - title: Guests of Honor
+      url: /guests-of-honor.html
+    - title: Dealers Den
+      url: /dealersden.html
+    - title: Artist Alley
+      url: /artistalley.html
+
+
+- title: Travel & Hotel
+  sublinks:
+    - title: Hotel
+      url: /hotel.html
+    - title: Travel Information
+      url: /travelinformation.html
+    - title: Parking
+      url: /parking.html
+
+
+
+- title: About
+=======
 - title: Registration
   url: /registration
 - title: Blog
@@ -8,6 +42,7 @@
   url: /charity.html
 - title: Support
   url: /support.html
+>>>>>>> ce2122cb1f2f3bc512e3e63fdb0feb930366e196
   sublinks:
     - title: FAQ
       url: /faq.html
